@@ -1,0 +1,13 @@
+2025-05-29 19:06:37,283 - INFO - Processing user query: dal
+2025-05-29 19:06:39,410 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-29 19:06:39,428 - INFO - AI requested tool usage
+2025-05-29 19:06:39,429 - INFO - Executing: scrape_product_data with args: {'category': 'dal'}
+2025-05-29 19:06:39,429 - INFO - Starting product scraping for category: dal
+2025-05-29 19:06:39,449 - INFO - Database initialized successfully
+2025-05-29 19:06:39,451 - INFO - Loaded 34 verified categories from chaldal_verified_categories.json
+2025-05-29 19:06:39,451 - INFO - Using partial match: dal -> dal or lentil
+2025-05-29 19:06:41,111 - INFO - Navigating to: https://chaldal.com/dal-or-lentil
+2025-05-29 19:06:44,233 - INFO - Loading all products...
+2025-05-29 19:06:50,270 - INFO - Scrolling completed after 3 scrolls. Final product count: 22
+2025-05-29 19:06:50,275 - INFO - Found 22 products
+2025-05-29 19:10:34,194 - INFO - Successfully saved 22 products to database

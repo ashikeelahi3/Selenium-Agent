@@ -1,0 +1,281 @@
+{
+  "last_updated": "2025-05-29T18:58:36.063807",
+  "source": "https://chaldal.com",
+  "total_categories": 34,
+  "extraction_method": "direct_url_verification",
+  "note": "These categories have been verified to exist and contain products",
+  "categories": {
+    "food": {
+      "name": "Food",
+      "url": "food",
+      "level": 0,
+      "full_url": "https://chaldal.com/food",
+      "has_products": false,
+      "verified": true
+    },
+    "fruits & vegetables": {
+      "name": "Fruits & Vegetables",
+      "url": "fruits-vegetables",
+      "level": 1,
+      "full_url": "https://chaldal.com/fruits-vegetables",
+      "has_products": false,
+      "verified": true
+    },
+    "meat & fish": {
+      "name": "Meat & Fish",
+      "url": "meat-fish",
+      "level": 1,
+      "full_url": "https://chaldal.com/meat-fish",
+      "has_products": false,
+      "verified": true
+    },
+    "cooking": {
+      "name": "Cooking",
+      "url": "cooking",
+      "level": 1,
+      "full_url": "https://chaldal.com/cooking",
+      "has_products": false,
+      "verified": true
+    },
+    "dairy & eggs": {
+      "name": "Dairy & Eggs",
+      "url": "dairy",
+      "level": 1,
+      "full_url": "https://chaldal.com/dairy",
+      "has_products": false,
+      "verified": true
+    },
+    "breakfast": {
+      "name": "Breakfast",
+      "url": "breakfast",
+      "level": 1,
+      "full_url": "https://chaldal.com/breakfast",
+      "has_products": false,
+      "verified": true
+    },
+    "snacks": {
+      "name": "Snacks",
+      "url": "snacks",
+      "level": 1,
+      "full_url": "https://chaldal.com/snacks",
+      "has_products": false,
+      "verified": true
+    },
+    "beverages": {
+      "name": "Beverages",
+      "url": "beverages",
+      "level": 1,
+      "full_url": "https://chaldal.com/beverages",
+      "has_products": false,
+      "verified": true
+    },
+    "baking": {
+      "name": "Baking",
+      "url": "baking-needs",
+      "level": 1,
+      "full_url": "https://chaldal.com/baking-needs",
+      "has_products": false,
+      "verified": true
+    },
+    "frozen & canned": {
+      "name": "Frozen & Canned",
+      "url": "frozen-foods",
+      "level": 1,
+      "full_url": "https://chaldal.com/frozen-foods",
+      "has_products": false,
+      "verified": true
+    },
+    "spices": {
+      "name": "Spices",
+      "url": "spices",
+      "level": 2,
+      "full_url": "https://chaldal.com/spices",
+      "has_products": true,
+      "verified": true
+    },
+    "salt & sugar": {
+      "name": "Salt & Sugar",
+      "url": "salt-sugar",
+      "level": 2,
+      "full_url": "https://chaldal.com/salt-sugar",
+      "has_products": true,
+      "verified": true
+    },
+    "rice": {
+      "name": "Rice",
+      "url": "rices",
+      "level": 2,
+      "full_url": "https://chaldal.com/rices",
+      "has_products": true,
+      "verified": true
+    },
+    "dal or lentil": {
+      "name": "Dal or Lentil",
+      "url": "dal-or-lentil",
+      "level": 2,
+      "full_url": "https://chaldal.com/dal-or-lentil",
+      "has_products": true,
+      "verified": true
+    },
+    "ready mix": {
+      "name": "Ready Mix",
+      "url": "ready-mix",
+      "level": 2,
+      "full_url": "https://chaldal.com/ready-mix",
+      "has_products": true,
+      "verified": true
+    },
+    "shemai & suji": {
+      "name": "Shemai & Suji",
+      "url": "shemai-suji",
+      "level": 2,
+      "full_url": "https://chaldal.com/shemai-suji",
+      "has_products": true,
+      "verified": true
+    },
+    "special ingredients": {
+      "name": "Special Ingredients",
+      "url": "miscellaneous",
+      "level": 2,
+      "full_url": "https://chaldal.com/miscellaneous",
+      "has_products": true,
+      "verified": true
+    },
+    "oil": {
+      "name": "Oil",
+      "url": "oil",
+      "level": 2,
+      "full_url": "https://chaldal.com/oil",
+      "has_products": true,
+      "verified": true
+    },
+    "colors & flavours": {
+      "name": "Colors & Flavours",
+      "url": "colors-flavours",
+      "level": 2,
+      "full_url": "https://chaldal.com/colors-flavours",
+      "has_products": true,
+      "verified": true
+    },
+    "ghee": {
+      "name": "Ghee",
+      "url": "ghee",
+      "level": 2,
+      "full_url": "https://chaldal.com/ghee",
+      "has_products": true,
+      "verified": true
+    },
+    "premium ingredients": {
+      "name": "Premium Ingredients",
+      "url": "premium-ingredients",
+      "level": 2,
+      "full_url": "https://chaldal.com/premium-ingredients",
+      "has_products": true,
+      "verified": true
+    },
+    "cleaning supplies": {
+      "name": "Cleaning Supplies",
+      "url": "cleaning",
+      "level": 0,
+      "full_url": "https://chaldal.com/cleaning",
+      "has_products": false,
+      "verified": true
+    },
+    "personal care": {
+      "name": "Personal Care",
+      "url": "personal-care",
+      "level": 0,
+      "full_url": "https://chaldal.com/personal-care",
+      "has_products": false,
+      "verified": true
+    },
+    "health & wellness": {
+      "name": "Health & Wellness",
+      "url": "hygiene",
+      "level": 0,
+      "full_url": "https://chaldal.com/hygiene",
+      "has_products": false,
+      "verified": true
+    },
+    "baby care": {
+      "name": "Baby Care",
+      "url": "babycare",
+      "level": 0,
+      "full_url": "https://chaldal.com/babycare",
+      "has_products": false,
+      "verified": true
+    },
+    "home & kitchen": {
+      "name": "Home & Kitchen",
+      "url": "home-kitchen",
+      "level": 0,
+      "full_url": "https://chaldal.com/home-kitchen",
+      "has_products": false,
+      "verified": true
+    },
+    "stationery & office": {
+      "name": "Stationery & Office",
+      "url": "stationery-office",
+      "level": 0,
+      "full_url": "https://chaldal.com/stationery-office",
+      "has_products": false,
+      "verified": true
+    },
+    "pet care": {
+      "name": "Pet Care",
+      "url": "pet-care",
+      "level": 0,
+      "full_url": "https://chaldal.com/pet-care",
+      "has_products": false,
+      "verified": true
+    },
+    "toys & sports": {
+      "name": "Toys & Sports",
+      "url": "toys-sports",
+      "level": 0,
+      "full_url": "https://chaldal.com/toys-sports",
+      "has_products": true,
+      "verified": true
+    },
+    "beauty & makeup": {
+      "name": "Beauty & MakeUp",
+      "url": "beauty",
+      "level": 0,
+      "full_url": "https://chaldal.com/beauty",
+      "has_products": true,
+      "verified": true
+    },
+    "fashion & lifestyle": {
+      "name": "Fashion & Lifestyle",
+      "url": "fashion-lifestyle",
+      "level": 0,
+      "full_url": "https://chaldal.com/fashion-lifestyle",
+      "has_products": true,
+      "verified": true
+    },
+    "vehicle essentials": {
+      "name": "Vehicle Essentials",
+      "url": "vehicle-essentials",
+      "level": 0,
+      "full_url": "https://chaldal.com/vehicle-essentials",
+      "has_products": true,
+      "verified": true
+    },
+    "qurbani special": {
+      "name": "Qurbani Special",
+      "url": "qurbani-special",
+      "level": 0,
+      "full_url": "https://chaldal.com/qurbani-special",
+      "has_products": true,
+      "verified": true
+    },
+    "flash sales": {
+      "name": "Flash Sales",
+      "url": "flash-sales",
+      "level": 0,
+      "full_url": "https://chaldal.com/flash-sales",
+      "has_products": true,
+      "verified": true
+    }
+  }
+}
